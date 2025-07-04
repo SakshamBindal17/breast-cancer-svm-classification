@@ -6,6 +6,7 @@ This project demonstrates how to use Support Vector Machines (SVM) with both lin
 
 ## Dataset
 
+- **Download Link:** https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 - **File:** `breast-cancer.csv`
 - **Rows:** 569
 - **Features:** 30 numeric clinical features
